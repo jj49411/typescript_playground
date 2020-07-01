@@ -1,0 +1,23 @@
+{
+  "name": "typescript_playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jj49411/typescript_playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jj49411/typescript_playground/issues"
+  },
+  "homepage": "https://github.com/jj49411/typescript_playground#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
